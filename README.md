@@ -1,5 +1,5 @@
-**Predictive Modeling for Parkinson's Disease using Machine Learning
-**
+Predictive Modeling for Parkinson's Disease using Machine Learning
+
 Overview:
 - This project aims to develop a predictive model for Parkinson's disease using machine learning techniques. Various algorithms were implemented to analyze voice measurements and predict the presence of Parkinson's disease.
 
